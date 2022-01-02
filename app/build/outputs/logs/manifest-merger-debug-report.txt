@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/6c4da7b103c35e20ae4699309c80813e/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/229094628d65e5ccd3ae73f07308c431/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f07852b22ec6f91ea4296986c81b184d/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5d5da4071f765a75a0dff774f116abe2/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1e6e2aee0a5ed3e1160f9e782278e1cf/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/0a0ed2124fee94cadc7b0e81943ae836/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/414998683652ebaf7b0eae6371363d04/transformed/jetified-shimmer-0.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a7742cbb94a8d9f420c409e695b189c4/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1cb227d02fa8a557477d3684693c775d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a54916af55d26d73dedd7cfff4ac38ce/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1025649751822d318cdf64ea00ad231f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9d7ca840ef4fdda0c92551bb2ec52f7e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f3c545475f93956c914c47bddb698e68/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/952d8349cb52877ed66606d44a9ea0e1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/ede24c9d24b7083eeda8a4c494e76e3c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9e191f12bb814628b41e6e8b31d3b8af/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/91451bbccd54f2af8d16808a52959f19/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/99bdcbc0576cfcc81abb0bd68f915b66/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/72a934b04251dfb358ebda00ddac9fab/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2aa0da4aed7b095c98123f177ede46ee/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/8246a8e61e0405ac33af9d6800b67839/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2c5589903081e82746fee119f220603d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f12dca32babc886dcfc3ca2321087e8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/391064aa9c75785040a5b48c91df65cb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2bda5954fba0f478fbd31e5408d30880/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5fcd60e9eb08e8aae3cab319582b0e25/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/82a5b4fded9a9542428f80f260f964dc/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/dbac768d862512d5cb814a524cb3d9b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/47c8c2ad9d23a26e4b590d35470fb120/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/119de1e28f862759785d7e0cf36daf3e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/e4b132f06b7a5873f02ff3ddeef28c44/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/d9d6592e7582da6a5bc5f03ada7e8e5c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/74617bd6172aa0119754d5fff8fe7573/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a03cf9cd0ca9c2a1997363049b46d42b/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a01fc28c8378c0b0d182b21f58c89084/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f07852b22ec6f91ea4296986c81b184d/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f07852b22ec6f91ea4296986c81b184d/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5d5da4071f765a75a0dff774f116abe2/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5d5da4071f765a75a0dff774f116abe2/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a7742cbb94a8d9f420c409e695b189c4/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a7742cbb94a8d9f420c409e695b189c4/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2bda5954fba0f478fbd31e5408d30880/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2bda5954fba0f478fbd31e5408d30880/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/dbac768d862512d5cb814a524cb3d9b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/dbac768d862512d5cb814a524cb3d9b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:14:9-45
+	android:usesCleartextTraffic
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:15:9-44
+activity#ids.dika.recipes.activity.SearchActivity
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:16:9-70
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:16:19-58
+activity#ids.dika.recipes.activity.FilterRecipesActivity
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:17:9-68
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:17:19-65
+activity#ids.dika.recipes.activity.DetailActivity
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:18:19-58
+activity#ids.dika.recipes.activity.MainActivity
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:19:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/6c4da7b103c35e20ae4699309c80813e/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/6c4da7b103c35e20ae4699309c80813e/transformed/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/229094628d65e5ccd3ae73f07308c431/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/229094628d65e5ccd3ae73f07308c431/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f07852b22ec6f91ea4296986c81b184d/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f07852b22ec6f91ea4296986c81b184d/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5d5da4071f765a75a0dff774f116abe2/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5d5da4071f765a75a0dff774f116abe2/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1e6e2aee0a5ed3e1160f9e782278e1cf/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1e6e2aee0a5ed3e1160f9e782278e1cf/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/0a0ed2124fee94cadc7b0e81943ae836/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/0a0ed2124fee94cadc7b0e81943ae836/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/414998683652ebaf7b0eae6371363d04/transformed/jetified-shimmer-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/414998683652ebaf7b0eae6371363d04/transformed/jetified-shimmer-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a7742cbb94a8d9f420c409e695b189c4/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a7742cbb94a8d9f420c409e695b189c4/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1cb227d02fa8a557477d3684693c775d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1cb227d02fa8a557477d3684693c775d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a54916af55d26d73dedd7cfff4ac38ce/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a54916af55d26d73dedd7cfff4ac38ce/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1025649751822d318cdf64ea00ad231f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/1025649751822d318cdf64ea00ad231f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9d7ca840ef4fdda0c92551bb2ec52f7e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9d7ca840ef4fdda0c92551bb2ec52f7e/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f3c545475f93956c914c47bddb698e68/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f3c545475f93956c914c47bddb698e68/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/952d8349cb52877ed66606d44a9ea0e1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/952d8349cb52877ed66606d44a9ea0e1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/ede24c9d24b7083eeda8a4c494e76e3c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/ede24c9d24b7083eeda8a4c494e76e3c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9e191f12bb814628b41e6e8b31d3b8af/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/9e191f12bb814628b41e6e8b31d3b8af/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/91451bbccd54f2af8d16808a52959f19/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/91451bbccd54f2af8d16808a52959f19/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/99bdcbc0576cfcc81abb0bd68f915b66/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/99bdcbc0576cfcc81abb0bd68f915b66/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/72a934b04251dfb358ebda00ddac9fab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/72a934b04251dfb358ebda00ddac9fab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2aa0da4aed7b095c98123f177ede46ee/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2aa0da4aed7b095c98123f177ede46ee/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/8246a8e61e0405ac33af9d6800b67839/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/8246a8e61e0405ac33af9d6800b67839/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2c5589903081e82746fee119f220603d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2c5589903081e82746fee119f220603d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/45e8e702adb1328fe6e6fb21612e27bb/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f12dca32babc886dcfc3ca2321087e8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/f12dca32babc886dcfc3ca2321087e8d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/391064aa9c75785040a5b48c91df65cb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/391064aa9c75785040a5b48c91df65cb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2bda5954fba0f478fbd31e5408d30880/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/2bda5954fba0f478fbd31e5408d30880/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5fcd60e9eb08e8aae3cab319582b0e25/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/5fcd60e9eb08e8aae3cab319582b0e25/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/82a5b4fded9a9542428f80f260f964dc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/82a5b4fded9a9542428f80f260f964dc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/dbac768d862512d5cb814a524cb3d9b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/dbac768d862512d5cb814a524cb3d9b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/47c8c2ad9d23a26e4b590d35470fb120/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/47c8c2ad9d23a26e4b590d35470fb120/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/119de1e28f862759785d7e0cf36daf3e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/119de1e28f862759785d7e0cf36daf3e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/e4b132f06b7a5873f02ff3ddeef28c44/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/e4b132f06b7a5873f02ff3ddeef28c44/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/d9d6592e7582da6a5bc5f03ada7e8e5c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/d9d6592e7582da6a5bc5f03ada7e8e5c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/74617bd6172aa0119754d5fff8fe7573/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/74617bd6172aa0119754d5fff8fe7573/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a03cf9cd0ca9c2a1997363049b46d42b/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a03cf9cd0ca9c2a1997363049b46d42b/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a01fc28c8378c0b0d182b21f58c89084/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/fransiskusandikasetiawan/.gradle/caches/transforms-3/a01fc28c8378c0b0d182b21f58c89084/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/AndroidManifest.xml

@@ -1,0 +1,26 @@
+ids/dika/recipes/databinding/ActivityDetailBinding.java
+ ids.dika.recipes.databinding.ActivityDetailBinding
+ids/dika/recipes/databinding/ShimmerRecommendationBinding.java
+ ids.dika.recipes.databinding.ShimmerRecommendationBinding
+ids/dika/recipes/databinding/ToolbarMenuBinding.java
+ ids.dika.recipes.databinding.ToolbarMenuBinding
+ids/dika/recipes/databinding/ActivityMainBinding.java
+ ids.dika.recipes.databinding.ActivityMainBinding
+ids/dika/recipes/databinding/ToolbarSearchBinding.java
+ ids.dika.recipes.databinding.ToolbarSearchBinding
+ids/dika/recipes/databinding/ItemGridCategoriesBinding.java
+ ids.dika.recipes.databinding.ItemGridCategoriesBinding
+ids/dika/recipes/BuildConfig.java
+ ids.dika.recipes.BuildConfig
+ids/dika/recipes/databinding/ActivityFilterRecipesBinding.java
+ ids.dika.recipes.databinding.ActivityFilterRecipesBinding
+ids/dika/recipes/databinding/ActivitySearchBinding.java
+ ids.dika.recipes.databinding.ActivitySearchBinding
+ids/dika/recipes/databinding/ToolbarHomeBinding.java
+ ids.dika.recipes.databinding.ToolbarHomeBinding
+ids/dika/recipes/databinding/ItemRowRecipesBinding.java
+ ids.dika.recipes.databinding.ItemRowRecipesBinding
+ids/dika/recipes/databinding/ItemRowRecommendationBinding.java
+ ids.dika.recipes.databinding.ItemRowRecommendationBinding
+ids/dika/recipes/databinding/ShimmerCategoriesBinding.java
+ ids.dika.recipes.databinding.ShimmerCategoriesBinding

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shimmer_categories.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/shimmer_categories.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_home.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/toolbar_home.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_filter_recipes.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/activity_filter_recipes.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_menu.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/toolbar_menu.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_search.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/toolbar_search.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_search.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_row_recipes.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/item_row_recipes.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_grid_categories.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/item_grid_categories.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shimmer_recommendation.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/shimmer_recommendation.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_row_recommendation.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/item_row_recommendation.xml"
+    },
+    {
+        "merged": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/fransiskusandikasetiawan/AndroidStudioProjects/recipes/app/src/main/res/layout/activity_main.xml"
+    }
+]
